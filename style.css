@@ -1,0 +1,40 @@
+*{
+
+/* allgemeine Farben*/ 
+	--bgBlue:#4C8EE4;
+	
+
+/* allgemeine Schriftart*/
+
+}
+
+body{
+	background-color: var(--bgBlue);
+
+}
+
+.bigBox{
+	width: 800px;
+	heigh: 1000px;
+	border: 10px solid maroon;
+}
+
+
+/*Quelle meine Webseite - ich merke mir das nie auswendig - im VS probiere ich alles aus bis es mir gefällt :) */
+header a{
+	float: left;
+    	display: block;
+    	color: black;
+    	text-align: center;
+    	padding: 14px 16px;
+    	text-decoration: none;
+
+    
+
+
+}
+
+.boxWithContent{
+	background-color: lightgrey;
+}
+
